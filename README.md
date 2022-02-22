@@ -1,8 +1,7 @@
-/**# Overview
 
 For this Game that I develped. It is a simple mobile game where the user jumps onto platforms and each time scores a point until the user falls off and restarts. Yuou keep playing and try to beat your high score each time. It uses the simple mobile device commands such as taping the screen to jump and slide fingure back and forth to move the ball on the screen. I made this program to be a challenging game that keeps bringing you back to beat your highscore.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/MlsfdOS-XTE)
 
 # Development Environment
 * Unity game engine
